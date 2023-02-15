@@ -1,0 +1,25 @@
+.logo{
+display: flex;
+justify-content:center;
+/* background-color: yellow; */
+flex-direction: row;
+margin-top:50px;
+}
+
+#input{
+    margin-left:300px;
+    display:flex;
+    height:100px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.two-buttons{
+    display:flex;
+    justify-content:center;
+    margin-top:40px;
+}
+button{
+    margin-left:20px;
+}
